@@ -1,4 +1,4 @@
-#include <cstddef>
+#pragma once
 #include <cstdint>
 #include <ctime>
 #include <format>

@@ -3,5 +3,8 @@
 
 int main(){
 
+    core core;
+    core.smth();
+
     return 0;
 }
