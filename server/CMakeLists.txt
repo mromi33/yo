@@ -1,6 +1,6 @@
 message(STATUS "The server directory is on building process...")
 
-set(SOURCES src/main.cpp src/logger.cpp src/core.cpp)
+set(SOURCES src/main.cpp src/logger.cpp src/core.cpp src/envloader.cpp)
 
 add_executable(yo_exe ${SOURCES})
 
